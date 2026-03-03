@@ -1,5 +1,9 @@
 # SMART - Semi-supervised Medical Adaptive vessel Representation Toolkit
 
+[![Hugging Face Paper](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Paper-blue)](https://huggingface.co/papers/2603.00881)
+[![Hugging Face Models](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-orange)](https://huggingface.co/ly17/TC-SemiSAM-checkpoints)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.00881-b31b1b.svg)](https://arxiv.org/abs/2603.00881)
+
 A semi-supervised video vessel segmentation framework built on SAM3 (Segment Anything Model 3), featuring Mean Teacher architecture and text prompt support for efficient coronary angiography vessel segmentation.
 
 ## Project Structure
